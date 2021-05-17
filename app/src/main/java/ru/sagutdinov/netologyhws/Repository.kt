@@ -17,7 +17,7 @@ import ru.sagutdinov.netologyhws.dto.PostRequestDto
 import ru.sagutdinov.netologyhws.dto.PostType
 import java.io.ByteArrayOutputStream
 
-const val BASE_URL = "https://mobile-crud.herokuapp.com/"
+const val BASE_URL = "https://crudlast.herokuapp.com/"
 
 object Repository {
 
