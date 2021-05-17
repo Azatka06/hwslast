@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893912646087",
+    "project_id": "crud-ea949",
+    "storage_bucket": "crud-ea949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893912646087:android:517ceeb78d3a0e0825d9e2",
+        "android_client_info": {
+          "package_name": "ru.sagutdinov.netologyhws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893912646087-iu46pl5jgapler8i69r92dbah5cs7a93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsN-vC1qC-KtmAa4WdJ-u_U0S5TyJs6R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893912646087-iu46pl5jgapler8i69r92dbah5cs7a93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

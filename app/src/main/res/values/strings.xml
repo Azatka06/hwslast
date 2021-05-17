@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">mobile-crud</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="btn_go">перейти</string>
+
+    <string name="login">Login</string>
+    <string name="registration">registration</string>
+    <string name="enter_login">Enter login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="success">Success</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="please_wait">Please wait....</string>
+    <string name="authentication">Authentication</string>
+    <string name="empty">No username or password</string>
+    <string name="password_error">Password error</string>
+    <string name="registration_completed">Registration completed</string>
+    <string name="authorization_completed">Authorization completed</string>
+    <string name="authorization_failed">Authorization failed</string>
+    <string name="enter_your_post_content">enter your post content</string>
+    <string name="create">create</string>
+    <string name="empty_text">empty text</string>
+    <string name="create_post_is_successful">create post is successful</string>
+    <string name="create_post_failed">create post failed</string>
+    <string name="connect_to_server_failed">connect to server failed</string>
+    <string name="load_more_posts">load more posts</string>
+    <string name="load_new_posts">load new posts</string>
+    <string name="loading_posts_failed">loading posts failed</string>
+    <string name="try_else">try else</string>
+    <string name="cannot_repost_2_time">cannot repost 2 time</string>
+    <string name="like_is_performing">like is performing</string>
+    <string name="photo_upload_failed">Photo upload failed</string>
+    <string name="photo_upload_is_successful">Photo upload is seccessful</string>
+    <string name="say_goodbye">Say goodbye</string>
+    <string name="description_text">Notifies when user leave app</string>
+    <string name="title_notification">Понравилось ли вам у нас?</string>
+    <string name="text_notification">Дорогой пользователь, возвращайтесь к нам скорее</string>
+    <string name="push_token_on_server_failed">push token on server failed</string>
+    <string name="google_play_unavailable">google play unavailable</string>
+</resources>
